@@ -1,0 +1,28 @@
+<resources>
+    <string name="BannerAdsUnit">ca-app-pub-6784746727432772/7621736541</string>
+    <string name="InterstitialAds">ca-app-pub-6784746727432772/5566612366</string>
+
+    <string name="app_name">ToDo_Success</string>
+    <string name="about">"Hi,\nMy name is <b>Arif</b>.\n\nAnd I\'m a <b>Android App Developer</b>, Android app <b>UI/UX designer </b>  and <b>Youtuber</b>."</string>
+    <string name="ToDoSuccess">ToDo Success is a free app that will help you a lot in achieving your goals.\nIn this app, you have been given a smart Pomodoro and a great to-do list
+        manager in which you can keep a to-do list for days, weeks, and months\n\nApp Features\n1: Task Complete or not Complete features\n2: Task name\n3: Task steps\n4: Task deadline
+    \n5: View, edit and manage tasks\n6: Smart Digital Clock\n7: To-Do lists for any purpose &amp; more.. </string>
+
+
+    <string name="Pomodoro">In Pomodoro, you can set the time according to your own and when the time is complete,you will be given a reward.\nIf you will use this
+        application every day then your life will be better and your productivity will increase a lot.</string>
+
+
+    <string name="more_useful_apps">More Useful Apps</string>
+    <string name="rate_us">Rate us</string>
+    <string name="how_to_use">How to use?</string>
+    <string name="follow_us">Follow us</string>
+    <string name="youtube">Youtube</string>
+    <string name="facebook">facebook</string>
+    <string name="instagram">instagram</string>
+    <string name="telegram">Telegram</string>
+    <string name="github">Github</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="privacy_policy">Privacy_Policy</string>
+    <string name="about_us">About developer</string>
+</resources>

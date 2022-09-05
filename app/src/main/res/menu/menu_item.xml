@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/more_apps"
+        android:icon="@drawable/app"
+        android:title="@string/more_useful_apps" />
+    <item
+        android:id="@+id/clockMe"
+        android:icon="@drawable/digital_clock"
+        android:title="Smart Digital Clock" />
+
+
+
+
+    <item
+        android:id="@+id/follow_us"
+        android:icon="@drawable/follow_uss"
+        android:title="@string/follow_us">
+
+        <menu>
+
+            <item
+                android:id="@+id/youtube"
+                android:icon="@drawable/youtube"
+                android:title="@string/youtube" />
+
+            <item
+                android:id="@+id/facebook"
+                android:icon="@drawable/facebook"
+                android:title="@string/facebook" />
+
+
+            <item
+                android:id="@+id/Instagram"
+                android:icon="@drawable/instagram"
+                android:title="@string/instagram" />
+
+            <item
+                android:id="@+id/telegram"
+                android:icon="@drawable/telegram"
+                android:title="@string/telegram" />
+
+
+            <item
+                android:id="@+id/linkedin"
+                android:icon="@drawable/linkedin"
+                android:title="@string/linkedin" />
+
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/policy"
+        android:icon="@drawable/privacy_policy"
+        android:title="@string/privacy_policy" />
+
+
+    <item
+        android:id="@+id/about_us"
+        android:icon="@drawable/about"
+        android:title="@string/about_us" />
+
+    <item
+        android:id="@+id/rating"
+        android:icon="@drawable/rating"
+        android:title="@string/rate_us" />
+
+</menu>
